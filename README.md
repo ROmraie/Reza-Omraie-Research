@@ -1,12 +1,13 @@
-# An Integrative Framework for Coaching, Psychotherapy, counseling, and Human Development.
-Research repository of Prof. Reza Omraie. NLP, Coaching, Psychotherapy, Counseling, Human Development and the Omraie Intervention
-OMR (Omraie Intervention Model)
+# Omraie Intervention Model OMR
+
+A Novel Integrative Framework for Coaching, Psychotherapy, Counseling, and Human Development.
+Research repository for the Omraie Intervention Model (OMR), NLP, Coaching, Psychotherapy, Counseling, Human Development and the Omraie Intervention Model (OMR).
 
 Author
 
 Prof. Reza Omraie
 
-- Founder of NLP Coaching in Iran
+- Developer of the Omraie Intervention Model (OMR)
 - Independent Researcher in NLP, Coaching, and Transformational Psychology
 
 Overview
