@@ -1,6 +1,6 @@
-# Omraie Intervention Model OMR
+# The Omraie Intervention Model (OMR). A Five-Phase Integrative Framework for Human Development and Sustainable Transformation
 
-A Novel Integrative Framework for Coaching, Psychotherapy, Counseling, and Human Development.
+A Integrative Framework for Coaching, Psychotherapy, Counseling, and Human Development.
 Research repository for the Omraie Intervention Model (OMR), NLP, Coaching, Psychotherapy, Counseling, Human Development and the Omraie Intervention Model (OMR).
 
 Author
@@ -37,6 +37,11 @@ This repository contains research papers and publications related to the Omraie 
 Keywords
 Omraie Intervention Model (OMR), Reza Omraie, NLP, NLP Coaching, Coaching, Executive Coaching, Psychotherapy, Counseling, Human Development, Transformational Psychology, Organizational Development, Behavioral Change, Identity Development, Belief Systems.
 
-## Citation information will be addded following publication.
+### Citation
+Omraie, R. (2026). *The Omraie Intervention Model (OMR): A Five-Phase Integrative Framework for Human Development and Sustainable Transformation.* Zenodo.
+
+DOI: https://doi.org/10.5281/zenodo.20564453
+
+
 
 
