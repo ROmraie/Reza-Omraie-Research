@@ -35,7 +35,7 @@ Applications
 Publications
 
 This repository contains research papers and publications related to the Omraie Intervention Model (OMR).
-
+[Read the full OMR article](The%20Omraie%20Intervention%20Model.pdf)
 Keywords
 Omraie Intervention Model (OMR), Reza Omraie, NLP, NLP Coaching, Coaching, Executive Coaching, Psychotherapy, Counseling, Human Development, Transformational Psychology, Organizational Development, Behavioral Change, Identity Development, Belief Systems.
 
