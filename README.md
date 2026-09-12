@@ -14,11 +14,13 @@ Overview
 
 The Omraie Intervention Model (OMR) is an integrative transformational framework developed by Prof. Reza Omraie. It combines principles from NLP, coaching, psychotherapy, cognitive psychology, and human development into a structured model for sustainable personal and organizational transformation.
 
-OMR is based on three core processes:
+OMR is based on five interconnected phases:  Observe, Understand, Match, Raise and Align
 
 - Observe – Developing awareness and conscious observation.
+- Understand - Exploring beliefs, values, patterns, and underlying reasons.
 - Match – Aligning beliefs, values, identity, and internal structures.
-- Raise – Elevating identity, behavior, performance, and sustainable growth.
+- Raise – Developing capabilities, transforming patterns, and supporting sustainable growth.Elevating identity, behavior, performance, and sustainable growth.
+- Align - Integrating the human system toward coherence, balance, and sustainable transformation.
 
 Applications
 
@@ -40,7 +42,7 @@ Omraie Intervention Model (OMR), Reza Omraie, NLP, NLP Coaching, Coaching, Execu
 ### Citation
 Omraie, R. (2026). *The Omraie Intervention Model (OMR): A Five-Phase Integrative Framework for Human Development and Sustainable Transformation.* Zenodo.
 
-DOI: https://doi.org/10.5281/zenodo.20564453
+DOI: https://doi.org/10.5281/zenodo.22725121
 
 
 
